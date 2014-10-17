@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jeg:home|Door43 (jeg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jeg|d43-jeg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jeg/archive/master.zip|d43-jeg.zip]]
+
+**Recent Changes**
+{{changes>ns = jeg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jeg|Ethnologue data]]
+
